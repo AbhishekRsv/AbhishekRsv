@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AbhishekRsv
-- 👀 I’m interested in AWS
-- 🌱 I’m currently learning AWS DevOps
+- 👋 Hi, I’m **Abhishek P**
+- 👀 I’m interested in **AWS**
+- 🌱 I’m currently learning _**AWS & DevOps**_
 - 💞️ I’m looking to collaborate on Building apps
-- 📫 How to reach me sivaabhishek007@gmail.com
+- 📫 How to reach me _**sivaabhishek007@gmail.com**_
 
 <!---
 AbhishekRsv/AbhishekRsv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
